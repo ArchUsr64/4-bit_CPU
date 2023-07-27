@@ -1,6 +1,5 @@
 # 4-bit CPU
-A 4-bit CPU using the harvard architecture built on simulator.io  
-Checkout the live demo [here](https://simulator.io/board/qrKHHvNRzY/3)
+A 4-bit CPU using the harvard architecture built on [simulator.io](https://simulator.io/board/qrKHHvNRzY/3)
 
 ### Specification:
 - 4x4-bit RAM
